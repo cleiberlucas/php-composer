@@ -1,0 +1,17 @@
+{
+    "name": "cleiber/curso-php-composer",
+    "description": "Curso de PHP Composer",
+    "authors": [
+        {
+            "name": "Cleiber Lucas",
+            "email": "cleiberlucas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "ETI\\": "src/eti/",
+            "App\\": "app/"
+        }
+    }
+}
