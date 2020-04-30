@@ -1,5 +1,6 @@
 <?php
 
+
 require '../vendor/autoload.php';
 
 //    $que = new \ETI\DB\Consulta;
